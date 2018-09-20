@@ -9,7 +9,7 @@
 	main, head {
 		font-family: 'Permanent Marker', cursive;
 		width: 80%;
-		margin: 0px auto,
+		margin: 0px auto;
 	}
 	</style>
 </head>
